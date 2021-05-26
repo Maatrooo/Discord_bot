@@ -3,14 +3,6 @@
   "version": "1.0.0",
   "description": "Music Bot",
   "main": "index.js",
-  "scripts": {
-    "start":"node index.js",
-    "heroku-postbuild": "npm run build"
-  },
-  "engines": {
-    "npm": "5.6.0",
-    "node": "8.10.0"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
